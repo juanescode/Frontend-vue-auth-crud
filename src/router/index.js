@@ -27,6 +27,11 @@ const router = createRouter({
       name: 'tasks',
       component: () => import('@/views/TasksView.vue'),
       meta: { requiresAuth: true }
+    },
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'not-found',
+      redirect: '/login'
     }
   ]
 })
