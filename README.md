@@ -47,7 +47,7 @@ VITE_API_URL=http://127.0.0.1:8000/api
 
 Para producción en Netlify:
 ```env
-VITE_API_URL=https://backend-python-django-crud-auth.onrender.com/api
+VITE_API_URL=https://equal-amalia-entrevista-8a244fe1.koyeb.app/api
 ```
 
 ## Estructura
