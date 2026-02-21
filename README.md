@@ -174,7 +174,7 @@ npm run build
 ## Credenciales de Prueba
 
 Usuario: `testuser`  
-Password: `test1234`
+Password: `test12345`
 
 ## Decisiones Técnicas
 
